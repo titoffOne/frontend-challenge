@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 // Пути к файлам изображений сердец
-const IMG_HEART_FILLED = "/images/heart-filled.png";
-const IMG_HEART_EMPTY = "/images/heart-empty.png";
+const IMG_HEART_FILLED = "/frontend-challenge/images/heart-filled.png";
+const IMG_HEART_EMPTY = "/frontend-challenge/images/heart-empty.png";
 
 /**
  * Тип для пропсов CatItem
